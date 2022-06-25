@@ -4,7 +4,7 @@ I'm developing this project for the conclusion of my technical course in informa
 
   ##
 
-Estou desenvolvendo este projeto para a conclusão do meu curso técnico em informática. É basicamente um sistema de tranca automática utilizando Arduino, módulo RFID, módulo de leitura biométrica e terá controle de acesso via banco de dados. A cada passo dado, vou atualizar este documento até o projeto estar concluído. 
+Estou desenvolvendo este projeto para a conclusão do meu curso técnico em informática. É basicamente um sistema de tranca automática utilizando Arduino, módulo RFID, módulo de leitura biométrica e terá controle de acesso via banco de dados. A cada passo dado, vou atualizar este documento até a conclusão deste projeto. 
 
 </div>
   <div style="display: inline_block"><br>
